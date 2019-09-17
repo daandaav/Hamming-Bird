@@ -2,14 +2,14 @@
 Data Communications and Net-centric Computations - a class assessment task.
 Work is based on the Hamming Code.
 
-**Utilized Resources and Ideas/Work:**
+_**Utilized Resources and Ideas/Work:**_
 
-A Minimal Unit Testing Framework for C - by Jera
+# A Minimal Unit Testing Framework for C - by Jera
 http://www.jera.com/techinfo/jtns/jtn002.html
 
-Zed Shaw's (book) Learn C the Hardway:
+# Zed Shaw's (book) Learn C the Hardway:
 Featuring:
-* Dynamic Arrays (in Chapter 34)
+* *Dynamic Arrays (in Chapter 34)*
 
 **NOTE**
   This repository is for learning and self development in programming.
