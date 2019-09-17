@@ -3,6 +3,7 @@ Data Communications and Net-centric Computations - a class assessment task.
 Work is based on the Hamming Code.
 
 * Utilized Resources and Ideas/Work:
+
 A Minimal Unit Testing Framework for C - by Jera
 http://www.jera.com/techinfo/jtns/jtn002.html
 
