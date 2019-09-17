@@ -16,4 +16,4 @@ Featuring:
   Nothing more, nothing less.
 
 *If you are one of the authors listed above and have found this repository has breached the license, terms and, or, agreements of your licensed/published works, you can contact me at:
-  "danis5k6@gmail.com"
+  "danis5k6@gmail.com"*
